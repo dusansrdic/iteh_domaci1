@@ -15,7 +15,7 @@
 <body>
     <section class="header2">
         <nav>
-            <a href="index.html" class="logo">MAD GYM
+            <a href="index.php" class="logo">MAD GYM
             </a>
             <div class="navigacijaLinkovi" id="navLinkovi">
                 <!-- reposnive bar open and close -->
@@ -65,11 +65,11 @@
             <i class="fab fa-linkedin"></i>
         </div>
         <p>Domaći zadatak iz Elektronskog poslovanja</a></p>
-        <p>Copyright © 2021 <a href="index.html">MAD GYM</a>. All Rights Reserved</p>
+        <p>Copyright © 2021 <a href="index.php">MAD GYM</a>. All Rights Reserved</p>
     </section>
     <!-- Footer Section end -->
 
-    <script src="script.js"></script>
+    <script src="1.js"></script>
 </body>
 
 </html>

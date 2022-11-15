@@ -10,8 +10,8 @@ function registrujSe(){
             alert("Ime: " + imeIPrezime + "\nPassword: " + lozinka +"\nJacina lozinke: " + jacinaLozinke+"\nVas pol: " + radio + "\nVas grad: " + mesto + "\n");
         }
         else{
-            location.href="prijava.php"
-            alert("Lozinke se ne poklapaju ili niste prihvatili uslove korišćenja!")
+            location.href="prijava.php";
+            alert("Lozinke se ne poklapaju ili niste prihvatili uslove korišćenja!");
         }
         
         
